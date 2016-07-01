@@ -1,5 +1,5 @@
 #!/bin/sh
-ssh goutham.vangala@10.210.78.24 <<EOF
+ssh goutham.vangala@ <<EOF
 cd ~/hello-jenkins-
 git pull
 npm install --production
